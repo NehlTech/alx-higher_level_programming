@@ -11,7 +11,7 @@ Usage
 =====
 
 Squares are printed using the ``#`` character. The parameter ``size``
-represents the height and width of the square.
+represents the height and width of the square. 
 
 ::
 
