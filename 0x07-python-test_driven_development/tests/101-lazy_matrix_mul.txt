@@ -12,7 +12,7 @@ Usage
 =====
 
 ``lazy_matrix_mul(...)`` returns a new matrix representing the multiplication
-of ``m_a`` by ``m_b``.
+of ``m_a`` by ``m_b``. 
 
 ::
 
