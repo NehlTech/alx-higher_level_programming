@@ -11,7 +11,7 @@ Usage
 =====
 
 ``matrix_divided(...)`` returns a new matrix that is a copy of the parameter
-``matrix`` with all elements divided by ``div``.
+``matrix`` with all elements divided by ``div``. 
 
 ::
 
