@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 0-add_integer.py
-# Bright 
+# Bright     
 """Defines an integer addition function."""
 
 
