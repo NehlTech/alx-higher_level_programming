@@ -5,7 +5,7 @@
 import requests
 
 if __name__ == "__main__":
-    resp = requests.get('https://intranet.hbtn.io/status')
+    resp = requests.get('https://alx-intranet.hbtn.io/status')
     if resp is not None:
         print("Body response:")
         print("\t- type: {}".format(type(resp.text)))
