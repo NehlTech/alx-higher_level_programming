@@ -1,12 +1,12 @@
 #!/usr/bin/python3
 """
-    Module for getting the status of intranet.hbtn.io/status.
+    Module for getting the status of alx-intranet.hbtn.io/status.
 """
 import urllib.request
 
 if __name__ == "__main__":
     try:
-        with urllib.request.urlopen('https://intranet.hbtn.io/status') as resp:
+        with urllib.request.urlopen('https://alx-intranet.hbtn.io/status') as resp:
             if resp is not None:
                 html = resp.read()
                 print("Body response:")
